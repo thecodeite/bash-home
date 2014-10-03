@@ -1,0 +1,21 @@
+From Web:
+	Chrome
+	Minecraft
+	Seil (For CapsLock -> Escape)
+	Git
+	Steam
+	Beyond Compare
+
+From App Store
+	Evernote
+	BetterSnapTool (b)
+	Growl (b)
+	Typist
+	// XCode (a, provides git)
+
+To Setup
+	.gitConfig
+	.bashRc
+	.vimRc
+
+	
