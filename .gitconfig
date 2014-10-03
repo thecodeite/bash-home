@@ -1,0 +1,22 @@
+[user]
+	name = Sam Plews
+	email = the@codeite.com 
+[color]
+	ui = auto
+	interative = auto
+[alias]
+	ch = checkout
+	co = commit 
+	st = status
+	br = branch
+	mt = mergetool
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	phead = push origin head
+[log]
+	date = local
+[core]
+	filemode = false
+[push]
+	default = current
+[rebase]
+	autosquash = true
