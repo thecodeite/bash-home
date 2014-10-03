@@ -16,7 +16,11 @@
 	date = local
 [core]
 	filemode = false
+	autocrlf = false
 [push]
 	default = current
 [rebase]
 	autosquash = true
+[include]
+	path = ~/.gitconfig.host-specific
+
