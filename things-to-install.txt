@@ -5,6 +5,8 @@ From Web:
 	Git
 	Steam
 	Beyond Compare
+	Brew
+	Node
 
 From App Store
 	Evernote
@@ -12,6 +14,9 @@ From App Store
 	Growl (b)
 	Typist
 	// XCode (a, provides git)
+
+From brew
+	curl
 
 To Setup
 	.gitConfig
