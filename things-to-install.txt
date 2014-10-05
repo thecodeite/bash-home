@@ -7,20 +7,25 @@ From Web:
 	Beyond Compare
 	Brew
 	Node
+	Team Viewer
 
 From App Store
 	Evernote
 	BetterSnapTool (b)
 	Growl (b)
 	Typist
-	// XCode (a, provides git)
+	XCode (a, provides git)
+	Microsoft Remote Desktop
 
 From brew
 	curl
+	ssh-copy-id
 
 To Setup
 	.gitConfig
 	.bashRc
 	.vimRc
 
-	
+Evaluating
+	Keka
+

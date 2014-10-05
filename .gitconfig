@@ -22,5 +22,5 @@
 [rebase]
 	autosquash = true
 [include]
-	path = ~/.gitconfig.host-specific
+	path = ~/.host-specific/.gitconfig.host-specific
 
