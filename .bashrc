@@ -8,3 +8,5 @@ source ~/.git-prompt.sh
 
 export PROMPT_COMMAND='__git_ps1 "\u@\h:\w" "\\\$ ";'
 
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting

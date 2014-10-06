@@ -18,13 +18,13 @@ test.sh
 .dropbox/
 *.swp
 .lesshst
-
-
-.Trash
-.bash_history
-.dropbox/
-*.swp
-.lesshst
 .ssh
 .viminfo
 
+To Archive
+Google Drive
+work
+.dbshell
+.gem
+.rvm
+.subversion
